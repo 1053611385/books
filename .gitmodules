@@ -1,0 +1,3 @@
+[submodule "the-way-to-go_ZH_CN"]
+	path = the-way-to-go_ZH_CN
+	url = git@github.com:Unknwon/the-way-to-go_ZH_CN.git
